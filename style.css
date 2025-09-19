@@ -2,7 +2,7 @@ body{
   background: #03160b;
    color: rgb(255, 255, 255);
    font-family: "Bai Jamjuree", sans-serif;
-   displey: flex;
+   display: flex;
    justify-content: center;
     align-items: center;
     height: 600px;
@@ -16,7 +16,11 @@ button {
 }
 
 .passo {
-    display: none
+    display: none;
+}
+
+.passo,ativo {
+    display: block;
 }
 
 main {
