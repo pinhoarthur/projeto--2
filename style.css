@@ -15,9 +15,9 @@ button {
     font-family: "Bai Jamjuree", sans-serif;
 }
 
-.passo (
-    display; none;
-)
+.passo {
+    display: none
+}
 
 main {
     text-align: center;
